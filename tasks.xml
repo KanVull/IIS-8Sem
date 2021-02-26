@@ -1,0 +1,39 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tasks>
+  <task>
+    <id>1</id>
+    <name>Roman</name>
+    <surname>Mineev</surname>
+    <group>IS-117</group>
+    <task_name>First</task_name>
+    <subject>IIS</subject>
+    <discription>Make it faster</discription>
+  </task>
+  <task>
+    <id>2</id>
+    <name>Ivan</name>
+    <surname>Frolov</surname>
+    <group>IS-117</group>
+    <task_name>Second</task_name>
+    <subject>IIS</subject>
+    <discription>Make it</discription>
+  </task>
+  <task>
+    <id>3</id>
+    <name>Ivan</name>
+    <surname>Egachev</surname>
+    <group>IS-117</group>
+    <task_name>Third</task_name>
+    <subject>IIS</subject>
+    <discription>Make it</discription>
+  </task>
+  <task>
+    <id>4</id>
+    <name>Stepan</name>
+    <surname>Voroncow</surname>
+    <group>IS-117</group>
+    <task_name>Fourth</task_name>
+    <subject>IIS</subject>
+    <discription>I'll do it</discription>
+  </task>
+</tasks>

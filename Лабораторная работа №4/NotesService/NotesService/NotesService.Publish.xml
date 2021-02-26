@@ -1,0 +1,16 @@
+<publishData>
+  <publishTarget publishUrl="D:\Институт\Дисциплины\Архитектура ИС\LR2\NotesService\Publish\">
+    <file relUrl="bin/NotesService.dll.config" publishTime="09/27/2017 15:21:41" />
+    <file relUrl="NotesService.NotesService.svc" publishTime="09/29/2017 12:40:44" />
+    <file relUrl="Web.config" publishTime="09/27/2017 15:21:41" />
+    <file relUrl="bin/NotesService.dll" publishTime="09/28/2017 19:20:24" />
+    <file relUrl="bin/NotesService.pdb" publishTime="09/28/2017 19:20:24" />
+  </publishTarget>
+  <publishTarget publishUrl="http://localhost/notes2">
+    <file relUrl="bin/NotesService.pdb" publishTime="09/27/2017 15:31:32" />
+    <file relUrl="bin/NotesService.dll.config" publishTime="09/27/2017 15:21:41" />
+    <file relUrl="bin/NotesService.dll" publishTime="09/27/2017 15:31:32" />
+    <file relUrl="NotesService.NotesService.svc" publishTime="09/27/2017 16:43:21" />
+    <file relUrl="Web.config" publishTime="09/27/2017 15:21:41" />
+  </publishTarget>
+</publishData>

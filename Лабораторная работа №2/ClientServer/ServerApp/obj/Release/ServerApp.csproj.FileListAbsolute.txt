@@ -1,0 +1,8 @@
+D:\Институт\Дисциплины\Архитектура ИС\LR3\ClientServer\ServerApp\bin\Release\ServerApp.exe.config
+D:\Институт\Дисциплины\Архитектура ИС\LR3\ClientServer\ServerApp\bin\Release\ServerApp.exe
+D:\Институт\Дисциплины\Архитектура ИС\LR3\ClientServer\ServerApp\bin\Release\ServerApp.pdb
+D:\Институт\Дисциплины\Архитектура ИС\LR3\ClientServer\ServerApp\obj\Release\ServerApp.exe
+D:\Институт\Дисциплины\Архитектура ИС\LR3\ClientServer\ServerApp\obj\Release\ServerApp.pdb
+d:\Институт\Учебная работа 2019-2020\Дисциплины\Интерфейсы ИС\ЛР3\ClientServer\ServerApp\bin\Release\ServerApp.exe.config
+d:\Институт\Учебная работа 2019-2020\Дисциплины\Интерфейсы ИС\ЛР3\ClientServer\ServerApp\obj\Release\ServerApp.exe
+d:\Институт\Учебная работа 2019-2020\Дисциплины\Интерфейсы ИС\ЛР3\ClientServer\ServerApp\obj\Release\ServerApp.pdb

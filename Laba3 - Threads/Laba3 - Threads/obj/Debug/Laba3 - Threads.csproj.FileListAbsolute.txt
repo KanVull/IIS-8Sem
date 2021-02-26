@@ -1,0 +1,7 @@
+C:\Инст\Интерфейсы ИС\Laba3 - Threads\Laba3 - Threads\bin\Debug\Laba3 - Threads.exe.config
+C:\Инст\Интерфейсы ИС\Laba3 - Threads\Laba3 - Threads\bin\Debug\Laba3 - Threads.exe
+C:\Инст\Интерфейсы ИС\Laba3 - Threads\Laba3 - Threads\bin\Debug\Laba3 - Threads.pdb
+C:\Инст\Интерфейсы ИС\Laba3 - Threads\Laba3 - Threads\obj\Debug\Laba3 - Threads.csprojAssemblyReference.cache
+C:\Инст\Интерфейсы ИС\Laba3 - Threads\Laba3 - Threads\obj\Debug\Laba3 - Threads.csproj.CoreCompileInputs.cache
+C:\Инст\Интерфейсы ИС\Laba3 - Threads\Laba3 - Threads\obj\Debug\Laba3 - Threads.exe
+C:\Инст\Интерфейсы ИС\Laba3 - Threads\Laba3 - Threads\obj\Debug\Laba3 - Threads.pdb

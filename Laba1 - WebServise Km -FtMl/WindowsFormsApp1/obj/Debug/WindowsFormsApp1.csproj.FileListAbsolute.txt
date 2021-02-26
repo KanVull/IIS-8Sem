@@ -1,0 +1,30 @@
+D:\Институт\Комкова\Интерфейсы ИС\WebApplication2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Институт\Комкова\Интерфейсы ИС\WebApplication2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Институт\Комкова\Интерфейсы ИС\WebApplication2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Институт\Комкова\Интерфейсы ИС\WebApplication2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Институт\Комкова\Интерфейсы ИС\WebApplication2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Институт\Комкова\Интерфейсы ИС\WebApplication2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Институт\Комкова\Интерфейсы ИС\WebApplication2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Институт\Комкова\Интерфейсы ИС\WebApplication2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Институт\Комкова\Интерфейсы ИС\WebApplication2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Институт\Комкова\Интерфейсы ИС\WebApplication2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\Институт\Комкова\Интерфейсы ИС\ЛБ1\WebApplication2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Институт\Комкова\Интерфейсы ИС\ЛБ1\WebApplication2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Институт\Комкова\Интерфейсы ИС\ЛБ1\WebApplication2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Институт\Комкова\Интерфейсы ИС\ЛБ1\WebApplication2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+D:\Институт\Комкова\Интерфейсы ИС\ЛБ1\WebApplication2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Институт\Комкова\Интерфейсы ИС\ЛБ1\WebApplication2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Институт\Комкова\Интерфейсы ИС\ЛБ1\WebApplication2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Институт\Комкова\Интерфейсы ИС\ЛБ1\WebApplication2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Институт\Комкова\Интерфейсы ИС\ЛБ1\WebApplication2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Институт\Комкова\Интерфейсы ИС\ЛБ1\WebApplication2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\minir\Downloads\LABA1\WebApplication2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\minir\Downloads\LABA1\WebApplication2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\minir\Downloads\LABA1\WebApplication2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\minir\Downloads\LABA1\WebApplication2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\minir\Downloads\LABA1\WebApplication2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\minir\Downloads\LABA1\WebApplication2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\minir\Downloads\LABA1\WebApplication2\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\minir\Downloads\LABA1\WebApplication2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\minir\Downloads\LABA1\WebApplication2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\minir\Downloads\LABA1\WebApplication2\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb

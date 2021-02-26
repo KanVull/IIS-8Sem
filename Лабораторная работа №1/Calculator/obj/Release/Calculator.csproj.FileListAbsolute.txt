@@ -1,0 +1,8 @@
+d:\Институт\Дисциплины\Архитектура ИС\LR1\Calculator\bin\Release\Calculator.exe.config
+d:\Институт\Дисциплины\Архитектура ИС\LR1\Calculator\bin\Release\Calculator.exe
+d:\Институт\Дисциплины\Архитектура ИС\LR1\Calculator\bin\Release\Calculator.pdb
+d:\Институт\Дисциплины\Архитектура ИС\LR1\Calculator\obj\Release\Calculator.Form1.resources
+d:\Институт\Дисциплины\Архитектура ИС\LR1\Calculator\obj\Release\Calculator.Properties.Resources.resources
+d:\Институт\Дисциплины\Архитектура ИС\LR1\Calculator\obj\Release\Calculator.csproj.GenerateResource.Cache
+d:\Институт\Дисциплины\Архитектура ИС\LR1\Calculator\obj\Release\Calculator.exe
+d:\Институт\Дисциплины\Архитектура ИС\LR1\Calculator\obj\Release\Calculator.pdb

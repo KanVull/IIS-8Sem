@@ -1,0 +1,5 @@
+D:\Институт\Дисциплины\Архитектура ИС\LR3\ClientServer\ClientApp\bin\Debug\ClientApp.exe.config
+D:\Институт\Дисциплины\Архитектура ИС\LR3\ClientServer\ClientApp\bin\Debug\ClientApp.exe
+D:\Институт\Дисциплины\Архитектура ИС\LR3\ClientServer\ClientApp\bin\Debug\ClientApp.pdb
+D:\Институт\Дисциплины\Архитектура ИС\LR3\ClientServer\ClientApp\obj\Debug\ClientApp.exe
+D:\Институт\Дисциплины\Архитектура ИС\LR3\ClientServer\ClientApp\obj\Debug\ClientApp.pdb

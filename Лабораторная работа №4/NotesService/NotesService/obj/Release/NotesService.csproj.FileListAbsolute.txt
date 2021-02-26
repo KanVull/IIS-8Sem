@@ -1,0 +1,11 @@
+D:\Институт\Дисциплины\Архитектура ИС\LR2\NotesService\NotesService\bin\Release\NotesService.dll.config
+D:\Институт\Дисциплины\Архитектура ИС\LR2\NotesService\NotesService\bin\Release\NotesService.dll
+D:\Институт\Дисциплины\Архитектура ИС\LR2\NotesService\NotesService\bin\Release\NotesService.pdb
+D:\Институт\Дисциплины\Архитектура ИС\LR2\NotesService\NotesService\obj\Release\NotesService.dll
+D:\Институт\Дисциплины\Архитектура ИС\LR2\NotesService\NotesService\obj\Release\NotesService.pdb
+d:\Институт\Учебная работа 2019-2020\Дисциплины\Интерфейсы ИС\ЛР2\NotesService\NotesService\bin\Release\NotesService.dll.config
+d:\Институт\Учебная работа 2019-2020\Дисциплины\Интерфейсы ИС\ЛР2\NotesService\NotesService\bin\Release\NotesService.dll
+d:\Институт\Учебная работа 2019-2020\Дисциплины\Интерфейсы ИС\ЛР2\NotesService\NotesService\bin\Release\NotesService.pdb
+d:\Институт\Учебная работа 2019-2020\Дисциплины\Интерфейсы ИС\ЛР2\NotesService\NotesService\obj\Release\NotesService.csprojResolveAssemblyReference.cache
+d:\Институт\Учебная работа 2019-2020\Дисциплины\Интерфейсы ИС\ЛР2\NotesService\NotesService\obj\Release\NotesService.dll
+d:\Институт\Учебная работа 2019-2020\Дисциплины\Интерфейсы ИС\ЛР2\NotesService\NotesService\obj\Release\NotesService.pdb

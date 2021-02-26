@@ -1,0 +1,33 @@
+D:\Учеба\Cisco\PR5.client\PR5.client\bin\Debug\PR5.client.exe.config
+D:\Учеба\Cisco\PR5.client\PR5.client\bin\Debug\PR5.client.exe
+D:\Учеба\Cisco\PR5.client\PR5.client\bin\Debug\PR5.client.pdb
+D:\Учеба\Cisco\PR5.client\PR5.client\obj\Debug\PR5.client.exe
+D:\Учеба\Cisco\PR5.client\PR5.client\obj\Debug\PR5.client.pdb
+D:\Учеба\Cisco\PR5.client\PR5.client\obj\Debug\PR5.client.csprojAssemblyReference.cache
+E:\PR5.client\PR5.client\bin\Debug\PR5.client.exe.config
+E:\PR5.client\PR5.client\bin\Debug\PR5.client.exe
+E:\PR5.client\PR5.client\bin\Debug\PR5.client.pdb
+E:\PR5.client\PR5.client\obj\Debug\PR5.client.csprojAssemblyReference.cache
+E:\PR5.client\PR5.client\obj\Debug\PR5.client.exe
+E:\PR5.client\PR5.client\obj\Debug\PR5.client.pdb
+D:\Институт\ИКСиС\PR5.client\PR5.client\bin\Debug\PR5.client.exe.config
+D:\Институт\ИКСиС\PR5.client\PR5.client\bin\Debug\PR5.client.exe
+D:\Институт\ИКСиС\PR5.client\PR5.client\bin\Debug\PR5.client.pdb
+D:\Институт\ИКСиС\PR5.client\PR5.client\obj\Debug\PR5.client.csprojAssemblyReference.cache
+D:\Институт\ИКСиС\PR5.client\PR5.client\obj\Debug\PR5.client.csproj.CoreCompileInputs.cache
+D:\Институт\ИКСиС\PR5.client\PR5.client\obj\Debug\PR5.client.exe
+D:\Институт\ИКСиС\PR5.client\PR5.client\obj\Debug\PR5.client.pdb
+D:\Институт\Варламов\ИКСиС\PR5.client\PR5.client\bin\Debug\PR5.client.exe.config
+D:\Институт\Варламов\ИКСиС\PR5.client\PR5.client\bin\Debug\PR5.client.exe
+D:\Институт\Варламов\ИКСиС\PR5.client\PR5.client\bin\Debug\PR5.client.pdb
+D:\Институт\Варламов\ИКСиС\PR5.client\PR5.client\obj\Debug\PR5.client.csprojAssemblyReference.cache
+D:\Институт\Варламов\ИКСиС\PR5.client\PR5.client\obj\Debug\PR5.client.csproj.CoreCompileInputs.cache
+D:\Институт\Варламов\ИКСиС\PR5.client\PR5.client\obj\Debug\PR5.client.exe
+D:\Институт\Варламов\ИКСиС\PR5.client\PR5.client\obj\Debug\PR5.client.pdb
+C:\Инст\Интерфейсы ИС\Laba2 - TCP\PR5.client\PR5.client\bin\Debug\PR5.client.exe.config
+C:\Инст\Интерфейсы ИС\Laba2 - TCP\PR5.client\PR5.client\bin\Debug\PR5.client.exe
+C:\Инст\Интерфейсы ИС\Laba2 - TCP\PR5.client\PR5.client\bin\Debug\PR5.client.pdb
+C:\Инст\Интерфейсы ИС\Laba2 - TCP\PR5.client\PR5.client\obj\Debug\PR5.client.csprojAssemblyReference.cache
+C:\Инст\Интерфейсы ИС\Laba2 - TCP\PR5.client\PR5.client\obj\Debug\PR5.client.csproj.CoreCompileInputs.cache
+C:\Инст\Интерфейсы ИС\Laba2 - TCP\PR5.client\PR5.client\obj\Debug\PR5.client.exe
+C:\Инст\Интерфейсы ИС\Laba2 - TCP\PR5.client\PR5.client\obj\Debug\PR5.client.pdb

@@ -1,0 +1,35 @@
+C:\Users\Роман\source\repos\Thanks for helping AIS 2\For AIS 2 (winforms)\bin\Debug\For AIS 2 (winforms).exe.config
+C:\Users\Роман\source\repos\Thanks for helping AIS 2\For AIS 2 (winforms)\bin\Debug\For AIS 2 (winforms).exe
+C:\Users\Роман\source\repos\Thanks for helping AIS 2\For AIS 2 (winforms)\bin\Debug\For AIS 2 (winforms).pdb
+C:\Users\Роман\source\repos\Thanks for helping AIS 2\For AIS 2 (winforms)\obj\Debug\For AIS 2 (winforms).csprojAssemblyReference.cache
+C:\Users\Роман\source\repos\Thanks for helping AIS 2\For AIS 2 (winforms)\obj\Debug\For_AIS_2__winforms_.Form1.resources
+C:\Users\Роман\source\repos\Thanks for helping AIS 2\For AIS 2 (winforms)\obj\Debug\For_AIS_2__winforms_.Properties.Resources.resources
+C:\Users\Роман\source\repos\Thanks for helping AIS 2\For AIS 2 (winforms)\obj\Debug\For AIS 2 (winforms).csproj.GenerateResource.cache
+C:\Users\Роман\source\repos\Thanks for helping AIS 2\For AIS 2 (winforms)\obj\Debug\For AIS 2 (winforms).exe
+C:\Users\Роман\source\repos\Thanks for helping AIS 2\For AIS 2 (winforms)\obj\Debug\For AIS 2 (winforms).pdb
+C:\Users\Роман\source\repos\Thanks for helping AIS 2\For AIS 2 (winforms)\obj\Debug\For_AIS_2__winforms_.Add.resources
+C:\Users\Роман\source\repos\Thanks for helping AIS 2\For AIS 2 (winforms)\obj\Debug\For_AIS_2__winforms_.Searching.resources
+C:\Users\User\source\repos\Thanks for helping AIS 2\For AIS 2 (winforms)\bin\Debug\For AIS 2 (winforms).exe.config
+C:\Users\User\source\repos\Thanks for helping AIS 2\For AIS 2 (winforms)\bin\Debug\For AIS 2 (winforms).exe
+C:\Users\User\source\repos\Thanks for helping AIS 2\For AIS 2 (winforms)\bin\Debug\For AIS 2 (winforms).pdb
+C:\Users\User\source\repos\Thanks for helping AIS 2\For AIS 2 (winforms)\obj\Debug\For AIS 2 (winforms).csprojAssemblyReference.cache
+C:\Users\User\source\repos\Thanks for helping AIS 2\For AIS 2 (winforms)\obj\Debug\For_AIS_2__winforms_.Add.resources
+C:\Users\User\source\repos\Thanks for helping AIS 2\For AIS 2 (winforms)\obj\Debug\For_AIS_2__winforms_.Form1.resources
+C:\Users\User\source\repos\Thanks for helping AIS 2\For AIS 2 (winforms)\obj\Debug\For_AIS_2__winforms_.Properties.Resources.resources
+C:\Users\User\source\repos\Thanks for helping AIS 2\For AIS 2 (winforms)\obj\Debug\For_AIS_2__winforms_.Searching.resources
+C:\Users\User\source\repos\Thanks for helping AIS 2\For AIS 2 (winforms)\obj\Debug\For AIS 2 (winforms).csproj.GenerateResource.cache
+C:\Users\User\source\repos\Thanks for helping AIS 2\For AIS 2 (winforms)\obj\Debug\For AIS 2 (winforms).csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\Thanks for helping AIS 2\For AIS 2 (winforms)\obj\Debug\For AIS 2 (winforms).exe
+C:\Users\User\source\repos\Thanks for helping AIS 2\For AIS 2 (winforms)\obj\Debug\For AIS 2 (winforms).pdb
+C:\Инст\Интерфейсы ИС\Laba4 - WCF\For AIS 2 (winforms)\bin\Debug\For AIS 2 (winforms).exe.config
+C:\Инст\Интерфейсы ИС\Laba4 - WCF\For AIS 2 (winforms)\bin\Debug\For AIS 2 (winforms).exe
+C:\Инст\Интерфейсы ИС\Laba4 - WCF\For AIS 2 (winforms)\bin\Debug\For AIS 2 (winforms).pdb
+C:\Инст\Интерфейсы ИС\Laba4 - WCF\For AIS 2 (winforms)\obj\Debug\For AIS 2 (winforms).csprojAssemblyReference.cache
+C:\Инст\Интерфейсы ИС\Laba4 - WCF\For AIS 2 (winforms)\obj\Debug\For_AIS_2__winforms_.Add.resources
+C:\Инст\Интерфейсы ИС\Laba4 - WCF\For AIS 2 (winforms)\obj\Debug\For_AIS_2__winforms_.Form1.resources
+C:\Инст\Интерфейсы ИС\Laba4 - WCF\For AIS 2 (winforms)\obj\Debug\For_AIS_2__winforms_.Properties.Resources.resources
+C:\Инст\Интерфейсы ИС\Laba4 - WCF\For AIS 2 (winforms)\obj\Debug\For_AIS_2__winforms_.Searching.resources
+C:\Инст\Интерфейсы ИС\Laba4 - WCF\For AIS 2 (winforms)\obj\Debug\For AIS 2 (winforms).csproj.GenerateResource.cache
+C:\Инст\Интерфейсы ИС\Laba4 - WCF\For AIS 2 (winforms)\obj\Debug\For AIS 2 (winforms).csproj.CoreCompileInputs.cache
+C:\Инст\Интерфейсы ИС\Laba4 - WCF\For AIS 2 (winforms)\obj\Debug\For AIS 2 (winforms).exe
+C:\Инст\Интерфейсы ИС\Laba4 - WCF\For AIS 2 (winforms)\obj\Debug\For AIS 2 (winforms).pdb

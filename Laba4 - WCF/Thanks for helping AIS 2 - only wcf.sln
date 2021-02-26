@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.852
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Thanks for helping AIS 2", "Thanks for helping AIS 2\", "{BB441069-6D47-43EC-857C-B665442C2AF3}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		Debug.AspNetCompiler.VirtualPath = "/localhost_52050"
+		Debug.AspNetCompiler.PhysicalPath = "Thanks for helping AIS 2\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52050\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/localhost_52050"
+		Release.AspNetCompiler.PhysicalPath = "Thanks for helping AIS 2\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\localhost_52050\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "52050"
+		SlnRelativePath = "Thanks for helping AIS 2\"
+		DefaultWebSiteLanguage = "Visual C#"
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "For AIS 2 (winforms)", "For AIS 2 (winforms)\For AIS 2 (winforms).csproj", "{6E2B5865-9360-454F-B140-95C7ABB281D5}"
+	ProjectSection(ProjectDependencies) = postProject
+		{BB441069-6D47-43EC-857C-B665442C2AF3} = {BB441069-6D47-43EC-857C-B665442C2AF3}
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB441069-6D47-43EC-857C-B665442C2AF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB441069-6D47-43EC-857C-B665442C2AF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB441069-6D47-43EC-857C-B665442C2AF3}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB441069-6D47-43EC-857C-B665442C2AF3}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{6E2B5865-9360-454F-B140-95C7ABB281D5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E2B5865-9360-454F-B140-95C7ABB281D5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E2B5865-9360-454F-B140-95C7ABB281D5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E2B5865-9360-454F-B140-95C7ABB281D5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {336D0CC0-6CD0-4F23-AD36-EA50A636A6E9}
+	EndGlobalSection
+EndGlobal

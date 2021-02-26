@@ -1,0 +1,14 @@
+D:\Институт\Комкова\Интерфейсы ИС\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+D:\Институт\Комкова\Интерфейсы ИС\WebApplication2\WebApplication2\bin\WebApplication2.dll
+D:\Институт\Комкова\Интерфейсы ИС\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+D:\Институт\Комкова\Интерфейсы ИС\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
+D:\Институт\Комкова\Интерфейсы ИС\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+D:\Институт\Комкова\Интерфейсы ИС\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+D:\Институт\Комкова\Интерфейсы ИС\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+C:\Users\minir\Downloads\LABA1\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\minir\Downloads\LABA1\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\minir\Downloads\LABA1\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\minir\Downloads\LABA1\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojAssemblyReference.cache
+C:\Users\minir\Downloads\LABA1\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csproj.CoreCompileInputs.cache
+C:\Users\minir\Downloads\LABA1\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\minir\Downloads\LABA1\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb

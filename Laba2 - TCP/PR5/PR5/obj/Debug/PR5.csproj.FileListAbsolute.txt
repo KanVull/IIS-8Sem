@@ -1,0 +1,33 @@
+D:\Учеба\Cisco\PR5\PR5\bin\Debug\PR5.exe.config
+D:\Учеба\Cisco\PR5\PR5\bin\Debug\PR5.exe
+D:\Учеба\Cisco\PR5\PR5\bin\Debug\PR5.pdb
+D:\Учеба\Cisco\PR5\PR5\obj\Debug\PR5.csprojAssemblyReference.cache
+D:\Учеба\Cisco\PR5\PR5\obj\Debug\PR5.exe
+D:\Учеба\Cisco\PR5\PR5\obj\Debug\PR5.pdb
+E:\PR5\PR5\obj\Debug\PR5.csprojAssemblyReference.cache
+E:\PR5\PR5\obj\Debug\PR5.exe
+E:\PR5\PR5\obj\Debug\PR5.pdb
+E:\PR5\PR5\bin\Debug\PR5.exe.config
+E:\PR5\PR5\bin\Debug\PR5.exe
+E:\PR5\PR5\bin\Debug\PR5.pdb
+D:\Институт\ИКСиС\PR5\PR5\bin\Debug\PR5.exe.config
+D:\Институт\ИКСиС\PR5\PR5\bin\Debug\PR5.exe
+D:\Институт\ИКСиС\PR5\PR5\bin\Debug\PR5.pdb
+D:\Институт\ИКСиС\PR5\PR5\obj\Debug\PR5.csprojAssemblyReference.cache
+D:\Институт\ИКСиС\PR5\PR5\obj\Debug\PR5.csproj.CoreCompileInputs.cache
+D:\Институт\ИКСиС\PR5\PR5\obj\Debug\PR5.exe
+D:\Институт\ИКСиС\PR5\PR5\obj\Debug\PR5.pdb
+D:\Институт\Варламов\ИКСиС\PR5\PR5\bin\Debug\PR5.exe.config
+D:\Институт\Варламов\ИКСиС\PR5\PR5\bin\Debug\PR5.exe
+D:\Институт\Варламов\ИКСиС\PR5\PR5\bin\Debug\PR5.pdb
+D:\Институт\Варламов\ИКСиС\PR5\PR5\obj\Debug\PR5.csprojAssemblyReference.cache
+D:\Институт\Варламов\ИКСиС\PR5\PR5\obj\Debug\PR5.csproj.CoreCompileInputs.cache
+D:\Институт\Варламов\ИКСиС\PR5\PR5\obj\Debug\PR5.exe
+D:\Институт\Варламов\ИКСиС\PR5\PR5\obj\Debug\PR5.pdb
+C:\Инст\Интерфейсы ИС\Laba2 - TCP\PR5\PR5\bin\Debug\PR5.exe.config
+C:\Инст\Интерфейсы ИС\Laba2 - TCP\PR5\PR5\bin\Debug\PR5.exe
+C:\Инст\Интерфейсы ИС\Laba2 - TCP\PR5\PR5\bin\Debug\PR5.pdb
+C:\Инст\Интерфейсы ИС\Laba2 - TCP\PR5\PR5\obj\Debug\PR5.csprojAssemblyReference.cache
+C:\Инст\Интерфейсы ИС\Laba2 - TCP\PR5\PR5\obj\Debug\PR5.csproj.CoreCompileInputs.cache
+C:\Инст\Интерфейсы ИС\Laba2 - TCP\PR5\PR5\obj\Debug\PR5.exe
+C:\Инст\Интерфейсы ИС\Laba2 - TCP\PR5\PR5\obj\Debug\PR5.pdb

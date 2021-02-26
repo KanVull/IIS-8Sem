@@ -1,0 +1,6 @@
+D:\Институт\Дисциплины\Архитектура ИС\LR3\ClientServer\ClientApp\bin\Release\ClientApp.exe.config
+D:\Институт\Дисциплины\Архитектура ИС\LR3\ClientServer\ClientApp\bin\Release\ClientApp.exe
+D:\Институт\Дисциплины\Архитектура ИС\LR3\ClientServer\ClientApp\bin\Release\ClientApp.pdb
+D:\Институт\Дисциплины\Архитектура ИС\LR3\ClientServer\ClientApp\obj\Release\ClientApp.csprojResolveAssemblyReference.cache
+D:\Институт\Дисциплины\Архитектура ИС\LR3\ClientServer\ClientApp\obj\Release\ClientApp.exe
+D:\Институт\Дисциплины\Архитектура ИС\LR3\ClientServer\ClientApp\obj\Release\ClientApp.pdb

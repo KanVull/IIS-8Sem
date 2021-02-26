@@ -1,0 +1,9 @@
+D:\Институт\Дисциплины\Архитектура ИС\LR2\NotesClient\NotesClient\bin\Release\NotesClient.exe.config
+D:\Институт\Дисциплины\Архитектура ИС\LR2\NotesClient\NotesClient\bin\Release\NotesClient.exe
+D:\Институт\Дисциплины\Архитектура ИС\LR2\NotesClient\NotesClient\bin\Release\NotesClient.pdb
+D:\Институт\Дисциплины\Архитектура ИС\LR2\NotesClient\NotesClient\obj\Release\NotesClient.csprojResolveAssemblyReference.cache
+D:\Институт\Дисциплины\Архитектура ИС\LR2\NotesClient\NotesClient\obj\Release\NotesClient.Form1.resources
+D:\Институт\Дисциплины\Архитектура ИС\LR2\NotesClient\NotesClient\obj\Release\NotesClient.Properties.Resources.resources
+D:\Институт\Дисциплины\Архитектура ИС\LR2\NotesClient\NotesClient\obj\Release\NotesClient.csproj.GenerateResource.Cache
+D:\Институт\Дисциплины\Архитектура ИС\LR2\NotesClient\NotesClient\obj\Release\NotesClient.exe
+D:\Институт\Дисциплины\Архитектура ИС\LR2\NotesClient\NotesClient\obj\Release\NotesClient.pdb

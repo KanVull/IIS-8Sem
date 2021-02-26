@@ -1,0 +1,5 @@
+d:\Институт\Дисциплины\Архитектура ИС\LR1\CalcService\bin\CalcService.dll
+d:\Институт\Дисциплины\Архитектура ИС\LR1\CalcService\bin\CalcService.pdb
+d:\Институт\Дисциплины\Архитектура ИС\LR1\CalcService\obj\Release\CalcService.csprojResolveAssemblyReference.cache
+d:\Институт\Дисциплины\Архитектура ИС\LR1\CalcService\obj\Release\CalcService.dll
+d:\Институт\Дисциплины\Архитектура ИС\LR1\CalcService\obj\Release\CalcService.pdb
